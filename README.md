@@ -13,7 +13,7 @@ Feedback is provided in terms of heuristic function
 </p>
 
 
-<h2>Algorithm:</h2>
+<h2>Algorithm :</h2>
 
 <p>
 <ol>
@@ -44,7 +44,7 @@ Feedback is provided in terms of heuristic function
 <p> Lopp Step -2 and Step-3  until we achieve the score to be Zero to achieve Global Minima.</p>
 
 <hr>
-<h2>Sample Input and Output</h2>
+<h2>Sample Input and Output :</h2>
 <h2>Sample String:</h2> Artificial Intelligence
 <h2>Output:</h2>
 Score: 643  Solution :  8RzF:oG ]%;CPORRMe!zGvk<br>

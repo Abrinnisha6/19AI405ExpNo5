@@ -2,7 +2,7 @@
 <h3>NAME : ABRIN NISHA A</h3>
 <h3>REG NO : 212222230005</h3>
 
-<H3>Aim :</H3>
+## Aim :
 
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 
